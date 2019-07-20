@@ -1,0 +1,11 @@
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\bin\Debug\TipService.CommonHelper.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\bin\Debug\TipService.CommonHelper.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TipService.CommonHelper.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TipService.CommonHelper.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TipServiceService.CommonHelper.csprojResolveAssemblyReference.cache
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\bin\Debug\TipService.CommonHelper.dll
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\bin\Debug\TipService.CommonHelper.pdb
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TipService.CommonHelper.dll
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TipService.CommonHelper.pdb
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TipServiceService.CommonHelper.csproj.CoreCompileInputs.cache
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TipServiceService.CommonHelper.csprojAssemblyReference.cache

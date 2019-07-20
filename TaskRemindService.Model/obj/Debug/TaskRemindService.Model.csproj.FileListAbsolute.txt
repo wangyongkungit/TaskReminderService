@@ -1,0 +1,4 @@
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\bin\Debug\TaskRemindService.Model.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\bin\Debug\TaskRemindService.Model.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\obj\Debug\TaskRemindService.Model.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\obj\Debug\TaskRemindService.Model.pdb

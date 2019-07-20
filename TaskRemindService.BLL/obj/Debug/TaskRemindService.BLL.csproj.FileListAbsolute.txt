@@ -1,0 +1,10 @@
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\bin\Debug\TaskRemindService.BLL.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\bin\Debug\TaskRemindService.BLL.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\bin\Debug\TaskRemindService.DAL.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\bin\Debug\TaskRemindService.Model.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\bin\Debug\MySql.Data.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\bin\Debug\TaskRemindService.DAL.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\bin\Debug\TaskRemindService.Model.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\obj\Debug\TaskRemindService.BLL.csprojResolveAssemblyReference.cache
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\obj\Debug\TaskRemindService.BLL.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.BLL\obj\Debug\TaskRemindService.BLL.pdb

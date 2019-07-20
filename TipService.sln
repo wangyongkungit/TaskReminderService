@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipService", "TaskRemindService\TipService.csproj", "{BF29013A-03AB-4E81-822A-2F30B6F47C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipService.Model", "TaskRemindService.Model\TipService.Model.csproj", "{79F7AC65-D705-4162-B80B-D1C998DCDE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipService.DAL", "TaskRemindService.DAL\TipService.DAL.csproj", "{12A7D8B0-3038-43D1-8718-E25200DCF8C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipService.BLL", "TaskRemindService.BLL\TipService.BLL.csproj", "{310A2382-25EF-4AED-9B5F-0DE8AD0650AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipServiceService.CommonHelper", "TaskRemindService.CommonHelper\TipServiceService.CommonHelper.csproj", "{E1AFE2E0-FB7D-4087-982F-875DCD6B07E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF29013A-03AB-4E81-822A-2F30B6F47C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF29013A-03AB-4E81-822A-2F30B6F47C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF29013A-03AB-4E81-822A-2F30B6F47C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF29013A-03AB-4E81-822A-2F30B6F47C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F7AC65-D705-4162-B80B-D1C998DCDE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F7AC65-D705-4162-B80B-D1C998DCDE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F7AC65-D705-4162-B80B-D1C998DCDE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F7AC65-D705-4162-B80B-D1C998DCDE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A7D8B0-3038-43D1-8718-E25200DCF8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A7D8B0-3038-43D1-8718-E25200DCF8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A7D8B0-3038-43D1-8718-E25200DCF8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A7D8B0-3038-43D1-8718-E25200DCF8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310A2382-25EF-4AED-9B5F-0DE8AD0650AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310A2382-25EF-4AED-9B5F-0DE8AD0650AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310A2382-25EF-4AED-9B5F-0DE8AD0650AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310A2382-25EF-4AED-9B5F-0DE8AD0650AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AFE2E0-FB7D-4087-982F-875DCD6B07E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AFE2E0-FB7D-4087-982F-875DCD6B07E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AFE2E0-FB7D-4087-982F-875DCD6B07E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AFE2E0-FB7D-4087-982F-875DCD6B07E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

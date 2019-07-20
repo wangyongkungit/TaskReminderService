@@ -1,0 +1,8 @@
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.DAL\obj\Debug\TaskRemindService.DAL.csprojResolveAssemblyReference.cache
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.DAL\bin\Debug\TaskRemindService.DAL.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.DAL\bin\Debug\TaskRemindService.DAL.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.DAL\bin\Debug\MySql.Data.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.DAL\obj\Debug\TaskRemindService.DAL.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.DAL\obj\Debug\TaskRemindService.DAL.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.DAL\bin\Debug\TaskRemindService.Model.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.DAL\bin\Debug\TaskRemindService.Model.pdb

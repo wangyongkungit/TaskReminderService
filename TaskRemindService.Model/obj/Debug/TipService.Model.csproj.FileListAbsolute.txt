@@ -1,0 +1,10 @@
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\bin\Debug\TipService.Model.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\bin\Debug\TipService.Model.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\obj\Debug\TipService.Model.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\obj\Debug\TipService.Model.pdb
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\bin\Debug\TipService.Model.dll
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\bin\Debug\TipService.Model.pdb
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\obj\Debug\TipService.Model.dll
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\obj\Debug\TipService.Model.pdb
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\obj\Debug\TipService.Model.csproj.CoreCompileInputs.cache
+F:\Work\YiLiangYiJia\SourceCode\TaskRemindServiceNew\TaskRemindService.Model\obj\Debug\TipService.Model.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\bin\Debug\TaskRemindService.CommonHelper.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\bin\Debug\TaskRemindService.CommonHelper.pdb
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TaskRemindService.CommonHelper.dll
+D:\Work\SourceCode\TaskRemindServiceNew\TaskRemindService.CommonHelper\obj\Debug\TaskRemindService.CommonHelper.pdb
